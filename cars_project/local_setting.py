@@ -10,6 +10,6 @@ DATABASES = {
         'NAME': 'cars_database',
         'HOST': 'localhost',
         'USER' : 'root' ,
-        'PASSWORD' : '91_Bravo' 
+        'PASSWORD' : '91_Bravo746' 
     }
 }
